@@ -19,20 +19,20 @@ I'm a Site Reliability Engineer and Cloud Architect who has spent 10+ years maki
 ## My stack 🧰
 
 <p align="center">
-  <img src="assets/icons/kubernetes.svg" width="42" title="Kubernetes"/>
-  <img src="assets/icons/docker.svg" width="42" title="Docker"/>
-  <img src="assets/icons/terraform.svg" width="42" title="Terraform"/>
-  <img src="assets/icons/ansible.svg" width="42" title="Ansible"/>
-  <img src="assets/icons/argocd.svg" width="42" title="Argo CD"/>
-  <img src="assets/icons/github-actions.svg" width="42" title="GitHub Actions"/>
-  <img src="assets/icons/jenkins.svg" width="42" title="Jenkins"/>
-  <img src="assets/icons/aws.svg" width="42" title="AWS"/>
-  <img src="assets/icons/azure.svg" width="42" title="Azure"/>
-  <img src="assets/icons/gcp.svg" width="42" title="Google Cloud"/>
-  <img src="assets/icons/vertex-ai.svg" width="42" title="Vertex AI"/>
-  <img src="assets/icons/nvidia.svg" width="42" title="NVIDIA"/>
-  <img src="assets/icons/python.svg" width="42" title="Python"/>
-  <img src="assets/icons/linux.svg" width="42" title="Linux"/>
+  <a href="https://kubernetes.io"><img src="assets/icons/kubernetes.svg" width="42" title="Kubernetes"/></a>
+  <a href="https://www.docker.com"><img src="assets/icons/docker.svg" width="42" title="Docker"/></a>
+  <a href="https://www.terraform.io"><img src="assets/icons/terraform.svg" width="42" title="Terraform"/></a>
+  <a href="https://www.ansible.com"><img src="assets/icons/ansible.svg" width="42" title="Ansible"/></a>
+  <a href="https://argo-cd.readthedocs.io"><img src="assets/icons/argocd.svg" width="42" title="Argo CD"/></a>
+  <a href="https://github.com/features/actions"><img src="assets/icons/github-actions.svg" width="42" title="GitHub Actions"/></a>
+  <a href="https://www.jenkins.io"><img src="assets/icons/jenkins.svg" width="42" title="Jenkins"/></a>
+  <a href="https://aws.amazon.com"><img src="assets/icons/aws.svg" width="42" title="AWS"/></a>
+  <a href="https://azure.microsoft.com"><img src="assets/icons/azure.svg" width="42" title="Azure"/></a>
+  <a href="https://cloud.google.com"><img src="assets/icons/gcp.svg" width="42" title="Google Cloud"/></a>
+  <a href="https://cloud.google.com/vertex-ai"><img src="assets/icons/vertex-ai.svg" width="42" title="Vertex AI"/></a>
+  <a href="https://www.nvidia.com"><img src="assets/icons/nvidia.svg" width="42" title="NVIDIA"/></a>
+  <a href="https://www.python.org"><img src="assets/icons/python.svg" width="42" title="Python"/></a>
+  <a href="https://www.kernel.org"><img src="assets/icons/linux.svg" width="42" title="Linux"/></a>
 </p>
 
 ## The numbers GitHub tracks 📈
@@ -87,24 +87,24 @@ I'm a Site Reliability Engineer and Cloud Architect who has spent 10+ years maki
 <summary>🧰 The rest of the toolbox (the long, boring, but true list)</summary>
 <br>
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<a href="https://grafana.com"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
+<a href="https://prometheus.io"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+<a href="https://www.datadoghq.com"><img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/></a>
+<a href="https://www.splunk.com"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/></a>
+<a href="https://helm.sh"><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/></a>
+<a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+<a href="https://openjdk.org"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+<a href="https://learn.microsoft.com/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/></a>
+<a href="https://about.gitlab.com"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+<a href="https://bitbucket.org"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/></a>
+<a href="https://nginx.org"><img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/></a>
+<a href="https://www.vmware.com"><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/></a>
+<a href="https://www.microsoft.com/windows-server"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/></a>
 
 And the enterprise veterans that still run half the internet: WebSphere, WebLogic, JBoss, Nagios, Icinga2, PagerDuty, Opsgenie 😅
 
