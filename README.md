@@ -35,6 +35,24 @@ I'm a Site Reliability Engineer and Cloud Architect who has spent 10+ years maki
   <a href="https://www.kernel.org" target="_blank" rel="noopener noreferrer"><img src="assets/icons/linux.svg" width="42" title="Linux"/></a>
 </p>
 
+## The AI tools in my daily rotation 🤖
+
+Yes I talk to multiple chatbots a day, no I will not pick a favorite in public 👀
+
+<p align="center">
+  <a href="https://www.dash0.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dash0-000000?style=for-the-badge&logo=dash0&logoColor=white" alt="Dash0"/></a>
+  <a href="https://colab.research.google.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/></a>
+  <a href="https://notebooklm.google.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=notebooklm&logoColor=white" alt="NotebookLM"/></a>
+  <a href="https://www.llama.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Llama-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/></a>
+  <a href="https://chatgpt.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
+  <a href="https://claude.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/></a>
+  <a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/></a>
+  <a href="https://www.perplexity.ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/></a>
+  <a href="https://x.ai/grok" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=grok&logoColor=white" alt="Grok"/></a>
+  <a href="https://huggingface.co" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://jupyter.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
+</p>
+
 ## The numbers GitHub tracks 📈
 
 <p align="center">
