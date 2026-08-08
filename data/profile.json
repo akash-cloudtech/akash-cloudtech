@@ -1,0 +1,29 @@
+{
+  "name": "Akash Verma",
+  "handle": "akash-cloudtech",
+  "role": "SRE / Cloud Architect",
+  "company": "TouchNet",
+  "experienceLabel": "10+ yrs",
+  "clusters": ["GKE", "OpenStack", "DGX / GPU HPC"],
+  "stats": {
+    "uptimeSlo": "99.99%",
+    "nodesManaged": "1,000+",
+    "toilReduced": "35%",
+    "computeResources": "500+",
+    "clouds": 3
+  },
+  "onCall": {
+    "status": "ARMED",
+    "note": "blameless postmortems only, mostly 😅"
+  },
+  "joke": {
+    "namespace": "weekend-plans",
+    "verdict": "COOKED",
+    "caption": "checked with my own tool, it's not lying"
+  },
+  "footer": {
+    "prompt": "akash-cloudtech@sre:~$ status --check",
+    "response": "All systems nominal. For now. 🫡"
+  },
+  "sparklineCaption": "p99 latency 📈 (for vibes, not a real dashboard)"
+}

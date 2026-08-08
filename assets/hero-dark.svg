@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#131A2A"/>
+    </linearGradient>
+    <radialGradient id="glowc" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowm" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF2BD6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF2BD6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#hbg)"/>
+  <circle cx="1040" cy="60" r="220" fill="url(#glowc)"/>
+  <circle cx="1130" cy="210" r="160" fill="url(#glowm)"/>
+  <g stroke="#30363D" stroke-width="1" opacity="0.6">
+    <line x1="880" y1="0" x2="880" y2="260"/>
+    <line x1="960" y1="0" x2="960" y2="260"/>
+    <line x1="1040" y1="0" x2="1040" y2="260"/>
+    <line x1="1120" y1="0" x2="1120" y2="260"/>
+  </g>
+  <text x="48" y="108" fill="#C9D1D9" font-size="46" font-weight="700">AKASH VERMA</text>
+  <text x="50" y="146" fill="#22D3EE" font-size="21" font-weight="700">SRE &amp; Cloud Architect 🛡️</text>
+  <text x="50" y="176" fill="#7D8590" font-size="14.5">Bridging infrastructure, data and machine learning, one 3am page at a time ⚡</text>
+  <text x="50" y="210" fill="#39D353" font-size="13.5" font-weight="600">10+ yrs 🕒  ·  1,000+ nodes 🖥️  ·  99.99% uptime ✅  ·  3 clouds ☁️</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <radialGradient id="glowc-l" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0969DA" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0969DA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowm-l" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#BF3989" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#BF3989" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="260" fill="#FFFFFF"/>
+  <circle cx="1040" cy="60" r="220" fill="url(#glowc-l)"/>
+  <circle cx="1130" cy="210" r="160" fill="url(#glowm-l)"/>
+  <g stroke="#D0D7DE" stroke-width="1" opacity="0.8">
+    <line x1="880" y1="0" x2="880" y2="260"/>
+    <line x1="960" y1="0" x2="960" y2="260"/>
+    <line x1="1040" y1="0" x2="1040" y2="260"/>
+    <line x1="1120" y1="0" x2="1120" y2="260"/>
+  </g>
+  <text x="48" y="108" fill="#24292F" font-size="46" font-weight="700">AKASH VERMA</text>
+  <text x="50" y="146" fill="#0969DA" font-size="21" font-weight="700">SRE &amp; Cloud Architect 🛡️</text>
+  <text x="50" y="176" fill="#57606A" font-size="14.5">Bridging infrastructure, data and machine learning, one 3am page at a time ⚡</text>
+  <text x="50" y="210" fill="#1A7F37" font-size="13.5" font-weight="600">10+ yrs 🕒  ·  1,000+ nodes 🖥️  ·  99.99% uptime ✅  ·  3 clouds ☁️</text>
+</svg>
