@@ -14,12 +14,12 @@
   },
   "onCall": {
     "status": "ARMED",
-    "note": "blameless postmortems only, mostly 😅"
+    "note": "blameless postmortems only 😅"
   },
   "joke": {
     "namespace": "weekend-plans",
     "verdict": "COOKED",
-    "caption": "checked with my own tool, it's not lying"
+    "caption": "confirmed by yours truly 👀"
   },
   "footer": {
     "prompt": "akash-cloudtech@sre:~$ status --check",

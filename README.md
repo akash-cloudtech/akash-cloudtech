@@ -68,16 +68,18 @@ I'm a Site Reliability Engineer and Cloud Architect who has spent 10+ years maki
 ⭐ [Star it on GitHub](https://github.com/akash-cloudtech/k8s-rizz) if it's ever saved your 3am.
 
 <details>
-<summary>📜 Certifications</summary>
+<summary>📜 Certifications (yes, they're all real, click to verify)</summary>
 <br>
 
-- Generative AI Leader Certification
-- Google Cloud Engineer
-- Professional Cloud Architect Certification
-- GitHub Foundations
-- Site Reliability Engineering: Measuring and Managing Reliability
-- Microsoft Certified: Azure Fundamentals
-- Microsoft Certified: Azure Administrator Associate
+| Certification | Issuer | Status | Verify |
+|---|---|---|---|
+| Generative AI Leader | Google Cloud | ✅ Active until 2028 | [Credly ↗](https://www.credly.com/badges/231b9e41-8252-4554-8daa-1780e8393e40) |
+| Associate Cloud Engineer | Google Cloud | ✅ Active until 2028 | [Credly ↗](https://www.credly.com/badges/1177a2da-fa8f-468e-b745-5fefa088c719) |
+| Professional Cloud Architect | Google Cloud | ✅ Active until 2027 | [Credly ↗](https://www.credly.com/badges/34f021b6-0ff4-43cb-9cdf-2246f70b6cc5) |
+| GitHub Foundations | GitHub | ✅ Active until 2027 | [Credly ↗](https://www.credly.com/badges/9c33590a-dfe6-45cb-a3dd-d4ad953ab56b) |
+| Azure Fundamentals | Microsoft | ✅ Active for life | [Credly ↗](https://www.credly.com/badges/2f11c5fd-5af0-41e7-8139-002929077642) |
+| Azure Administrator Associate | Microsoft | 💀 Expired 2023 (the knowledge didn't) | [Credly ↗](https://www.credly.com/badges/e6b52acb-d557-45d5-8450-855c211ed8af) |
+| SRE: Measuring and Managing Reliability | Google Cloud | ✅ Active for life | [Coursera ↗](https://coursera.org/verify/BGRJXLP9F643) |
 
 </details>
 
