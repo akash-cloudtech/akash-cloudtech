@@ -2,9 +2,8 @@
   "name": "Akash Verma",
   "handle": "akash-cloudtech",
   "role": "SRE / Cloud Architect",
-  "company": "TouchNet",
+  "company": "TouchNet, A Global Payments Company",
   "experienceLabel": "10+ yrs",
-  "clusters": ["GKE", "OpenStack", "DGX / GPU HPC"],
   "stats": {
     "uptimeSlo": "99.99%",
     "nodesManaged": "1,000+",

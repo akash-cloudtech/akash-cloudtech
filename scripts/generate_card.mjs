@@ -49,20 +49,21 @@ export async function fetchLiveStats(username) {
 // ---- Left column: identity, revealed row by row with a clipPath typewriter sweep ----
 const ROW_DUR = 0.14;
 const ROW_H = 24;
-const COL_TEXT_WIDTH = 410;
+const COL_TEXT_WIDTH = 418;
 const LEFT_X = 24;
+const LABEL_X = LEFT_X + 28;
+const VALUE_X = LEFT_X + 112;
+const ROW_FONT_SIZE = 12.5;
 const LEFT_TOP_Y = 78;
 
 function buildLeftColumn(c, profile, liveStats) {
   const rows = [
     { kind: "header" },
-    { text: `🧑‍💻 Name        ${profile.name}` },
-    { text: `🛡️  Role        ${profile.role}` },
-    { text: `🏢 Company     ${profile.company}` },
-    { text: `⏳ Experience  ${profile.experienceLabel}` },
-    { text: `☸️  Clusters    ${profile.clusters.join(" · ")}` },
-    { text: `📦 Repos       ${liveStats.publicRepos}` },
-    { text: `👥 Followers   ${liveStats.followers}` },
+    { icon: "🛡️", label: "Role", value: profile.role },
+    { icon: "🏢", label: "Company", value: profile.company },
+    { icon: "⏳", label: "Experience", value: profile.experienceLabel },
+    { icon: "📦", label: "Repos", value: liveStats.publicRepos },
+    { icon: "👥", label: "Followers", value: liveStats.followers },
   ];
 
   let svg = "";
@@ -71,19 +72,23 @@ function buildLeftColumn(c, profile, liveStats) {
     const yTop = LEFT_TOP_Y + i * ROW_H - 15;
     const yText = LEFT_TOP_Y + i * ROW_H;
 
-    let inner;
+    let inner, fontSize;
     if (row.kind === "header") {
+      fontSize = 13;
       inner = `<tspan fill="${c.green}" font-weight="700">${xe(profile.handle)}</tspan>` +
         `<tspan fill="${c.dim}">@</tspan>` +
         `<tspan fill="${c.cyan}" font-weight="700">github</tspan>`;
     } else {
-      inner = xe(row.text);
+      fontSize = ROW_FONT_SIZE;
+      inner = `<tspan>${xe(row.icon)}</tspan>` +
+        `<tspan x="${LABEL_X}" fill="${c.dim}">${xe(row.label)}</tspan>` +
+        `<tspan x="${VALUE_X}" fill="${c.text}">${xe(row.value)}</tspan>`;
     }
 
     svg += `<clipPath id="lrow${i}"><rect x="${LEFT_X}" y="${yTop}" height="${ROW_H}" width="0">` +
       `<animate attributeName="width" from="0" to="${COL_TEXT_WIDTH}" begin="${begin.toFixed(3)}s" dur="${ROW_DUR}s" fill="freeze"/>` +
       `</rect></clipPath>\n` +
-      `<g clip-path="url(#lrow${i})"><text xml:space="preserve" x="${LEFT_X}" y="${yText}" fill="${c.text}" font-size="13">${inner}</text></g>\n`;
+      `<g clip-path="url(#lrow${i})"><text xml:space="preserve" x="${LEFT_X}" y="${yText}" fill="${c.text}" font-size="${fontSize}">${inner}</text></g>\n`;
 
     if (row.kind === "header") {
       const ruleY = yText - 8;
