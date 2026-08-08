@@ -9,7 +9,7 @@
     "nodesManaged": "1,000+",
     "toilReduced": "35%",
     "computeResources": "500+",
-    "clouds": 3
+    "cloudScope": "AWS, Azure, GCP, Oracle, on-prem"
   },
   "onCall": {
     "status": "ARMED",

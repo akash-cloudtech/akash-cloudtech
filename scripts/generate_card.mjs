@@ -116,7 +116,7 @@ function buildRightTiles(c, profile, startTime) {
     tile(c, { label: "MANUAL TOIL", value: `📉 down ${profile.stats.toilReduced}`, border: c.green }),
     tile(c, { label: "ON-CALL", value: `📟 ${profile.onCall.status}`, border: c.amber, glow: true, caption: profile.onCall.note }),
     tile(c, { label: `NAMESPACE \`${profile.joke.namespace}\``, value: `💀 ${profile.joke.verdict}`, border: c.magenta, caption: profile.joke.caption }),
-    tile(c, { label: "COMPUTE FOOTPRINT", value: `☁️ ${profile.stats.computeResources} · ${profile.stats.clouds} clouds`, border: c.cyan }),
+    tile(c, { label: "COMPUTE FOOTPRINT", value: `☁️ ${profile.stats.computeResources} resources`, border: c.cyan, caption: profile.stats.cloudScope }),
   ];
 
   let svg = "";
