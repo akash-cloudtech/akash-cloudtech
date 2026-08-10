@@ -56,11 +56,11 @@ Yes I talk to multiple chatbots a day, no I will not pick a favorite in public ð
 ## The numbers GitHub tracks ðŸ“ˆ
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akash-cloudtech&background=135,0D1117,131A2A&border=30363D&stroke=30363D&ring=FF2BD6&fire=FFA657&currStreakNum=22D3EE&sideNums=C9D1D9&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=akash-cloudtech&background=135,0D1117,131A2A&border=30363D&stroke=30363D&ring=FF2BD6&fire=FFA657&currStreakNum=22D3EE&sideNums=C9D1D9&hide_border=false&cache_bust=1" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-cloudtech&theme=github_dark&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=30363D&animation=fade&duration=1.2" width="80%" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-cloudtech&name=akash-cloudtech&theme=github_dark&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=30363D&animation=fade&duration=1.2" width="80%" alt="Profile details" />
 </p>
 
 <p align="center">
