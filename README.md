@@ -56,7 +56,7 @@ Yes I talk to multiple chatbots a day, no I will not pick a favorite in public ð
 ## The numbers GitHub tracks ðŸ“ˆ
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akash-cloudtech&background=135,0D1117,131A2A&border=30363D&stroke=30363D&ring=FF2BD6&fire=FFA657&currStreakNum=22D3EE&sideNums=C9D1D9&hide_border=false&cache_bust=1" alt="GitHub streak" />
+  <img src="assets/streak.svg" alt="GitHub streak" />
 </p>
 
 <p align="center">

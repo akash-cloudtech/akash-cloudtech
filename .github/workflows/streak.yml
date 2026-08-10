@@ -1,0 +1,23 @@
+name: Generate streak card
+
+on:
+  schedule:
+    - cron: "40 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: "background=135,0D1117,131A2A&border=30363D&stroke=30363D&ring=FF2BD6&fire=FFA657&currStreakNum=22D3EE&sideNums=C9D1D9&hide_border=false"
+          path: "assets/streak.svg"
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh streak card [skip ci]"
+          file_pattern: "assets/streak.svg"
