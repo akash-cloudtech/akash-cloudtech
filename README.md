@@ -60,12 +60,15 @@ Yes I talk to multiple chatbots a day, no I will not pick a favorite in public ð
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-cloudtech&theme=github_dark&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=30363D&animation=fade&duration=1.2" width="48%" alt="Profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-cloudtech&theme=github_dark&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=FF2BD6&border_color=30363D&animation=rgb-soft&duration=6" width="48%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-cloudtech&theme=github_dark&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=30363D&animation=fade&duration=1.2" width="80%" alt="Profile details" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-cloudtech&theme=github_dark&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=FF2BD6&border_color=30363D&animation=rgb-soft&duration=6" width="48%" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-cloudtech&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&chart_color=39D353&border_color=30363D&animation=stagger&duration=1.5" width="48%" alt="Repos per language" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash-cloudtech&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&border_color=30363D" width="48%" alt="Productive time" />
 </p>
 
